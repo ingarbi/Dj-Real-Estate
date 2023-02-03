@@ -1,0 +1,27 @@
+#header {
+    height: 50;
+    background: darkblue;
+    color: white;
+}
+
+#branding h1 {
+    color: #fff;
+}
+
+a:link,
+a:visited {
+    color: darkblue;
+}
+
+div.breadcrumbs {
+    background: rgb(65, 158, 65);
+    color: blue;
+}
+
+div.breadcrumbs a {
+    background: rgb(1, 14, 1);
+}
+
+.module h2, .module caption, .inline-group h2 {
+    background: rgb(65, 158, 65);
+}
